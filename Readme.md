@@ -1,8 +1,8 @@
-<div align="center">
+EW<div align="center">
   
   <h2 align="center">Simple Events site</h2>
 
- fully responsive airtravel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+ fully responsive Events website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://prosper-tshumaa.github.io/theevenent.github.io/"><strong>➥ Live Demo</strong></a>
 
@@ -23,13 +23,13 @@ To run **TheEvenent** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://prosper-tshumaa.github.io/theevenent.github.io.git
+sudo git clone https://github.com/Prosper-Tshumaa/steakhouse.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://prosper-tshumaa.github.io/theevenent.github.io.git
+git clone https://github.com/Prosper-Tshumaa/steakhouse.github.io.git
 ```
 
 ### Contact
