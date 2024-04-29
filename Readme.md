@@ -1,4 +1,4 @@
-EW<div align="center">
+<div align="center">
   
   <h2 align="center">Simple Events site</h2>
 
