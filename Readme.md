@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2 align="center">Simple Airtravel site</h2>
+  <h2 align="center">Simple Events site</h2>
 
  fully responsive airtravel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
