@@ -4,7 +4,7 @@
 
  fully responsive airtravel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://prosper-tshumaa.github.io/airtravel.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href="https://prosper-tshumaa.github.io/theevenent.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -23,18 +23,18 @@ To run **TheEvenent** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Prosper-Tshumaa/airtravel.github.io.git
+sudo git clone https://prosper-tshumaa.github.io/theevenent.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Prosper-Tshumaa/airtravel.github.io.git
+git clone https://prosper-tshumaa.github.io/theevenent.github.io.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/executioner.senpai/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/dante.prosper.malik/).
 
 ### License
 
